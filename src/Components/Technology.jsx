@@ -7,6 +7,8 @@ import { DiRedis } from "react-icons/di"
 import { FaNodeJs } from "react-icons/fa"
 import { BiLogoPostgresql } from "react-icons/bi"
 
+import { motion } from "framer-motion"
+
 const Technology = () => {
     return (
         <div className='border-b border-neutral-800 pb-24'>
